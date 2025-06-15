@@ -1,6 +1,6 @@
 # Hi im Rayane ! 👋
 ## 💫 About Me:
-<br>I am a passionate computer science student with a minor in mechatronics. I’m passionate about writing clean, purposeful code and building projects that matter.<br><br> ##💻 What I Do<br>I work with Python, JavaScript, HTML/CSS, and React to create intuitive, responsive web applications and automation tools. I focus on fundamentals — no shortcuts, just solid logic.<br><br>🚀 Currently Learning<br><br>Advanced frontend with React<br><br>Backend programming & APIs<br><br>Full-stack project architecture<br><br>How to build things users actually want to use
+<br>I am a passionate computer science student with a minor in mechatronics. I’m passionate about writing clean, purposeful code and building projects that matter.<br><br>💻 What I Do<br>I work with Python, JavaScript, HTML/CSS, and React to create intuitive, responsive web applications and automation tools. I focus on fundamentals — no shortcuts, just solid logic.<br><br>🚀 Currently Learning<br><br>Advanced frontend with React<br><br>Backend programming & APIs<br><br>Full-stack project architecture<br><br>How to build things users actually want to use
 
 
 ## 🌐 Socials:
