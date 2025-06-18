@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rayane and I'm a Computer Science, from Morocco !</p>
+<p align="left">My name is Rayane and I'm a Computer Science student, from Morocco !</p>
 
 ###
 
